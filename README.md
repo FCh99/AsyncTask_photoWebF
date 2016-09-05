@@ -1,1 +1,1 @@
-This is an app that downloads a photo from Internet and publishes it in the Main Activity, also it measures and presents the time it took to download it
+Press a button and download an image from the Web in AsyncTask, an ImageView shows it and a TextView shows the amount of milliseconds it takes to download
